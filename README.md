@@ -71,7 +71,7 @@ GitHub Projects
 
 ## Connect With Me
 
-📍 Based in Besançon, France  
+📍 Based in France  
 🔗 LinkedIn: https://www.linkedin.com/in/chinedu-onyekpere-5a89912a4  
 💼 Open to collaboration and opportunities in NLP & EdTech.
 
