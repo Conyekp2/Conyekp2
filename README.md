@@ -1,5 +1,4 @@
 # Hello, I am **Chinedu Onyekpere**  
-### NLP • Software Development • Education Technology • Applied Linguistics • AI for Learning
 
 I'm a multilingual NLP practitioner and educator passionate about building tools that make learning clearer, simpler, and more accessible.  
 I combine my background in **FLE / Didactics**, **Natural Language Processing**, and **software development** to create intelligent, human-centered learning technologies.
