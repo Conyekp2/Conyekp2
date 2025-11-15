@@ -23,7 +23,7 @@ GitHub Projects
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 **EduSimplify (NEW)**
 *A French text simplification tool for learners.*  
@@ -69,7 +69,7 @@ GitHub Projects
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 📍 Based in Besançon, France  
 🔗 LinkedIn: https://www.linkedin.com/in/chinedu-onyekpere-5a89912a4  
@@ -77,7 +77,7 @@ GitHub Projects
 
 ---
 
-## 🧠 Fun Facts
+## Fun Facts
 
 - I love transforming complex knowledge into simple explanations.  
 - I'm passionate about multilingual education and AI for learning.  
