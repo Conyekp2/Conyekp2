@@ -85,4 +85,3 @@ GitHub Projects
 
 ---
 
-Thanks for visiting my GitHub! 🌟
