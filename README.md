@@ -9,6 +9,7 @@ I combine my background in **FLE / Didactics**, **Natural Language Processing**,
 
 ### **Languages**
 🇫🇷 French • 🇬🇧 English • 🇳🇬 Igbo •
+
 Python • HTML • CSS • JavaScript
 
 ### **NLP Tools & Libraries**
