@@ -8,7 +8,7 @@ I combine my background in **FLE / Didactics**, **Natural Language Processing**,
 ## 🔧 Tech Stack & Tools
 
 ### **Languages**
-🇫🇷 French • 🇬🇧 English • 🇳🇬 Igbo 
+🇫🇷 French • 🇬🇧 English • 🇳🇬 Igbo •
 Python • HTML • CSS • JavaScript
 
 ### **NLP Tools & Libraries**
